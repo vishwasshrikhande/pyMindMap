@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+*.mindmap.json
+!tests/fixtures/sample.mindmap.json
+!examples/demo.mindmap.json

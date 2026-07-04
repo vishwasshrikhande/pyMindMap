@@ -1,0 +1,213 @@
+{
+  "format": "pymindmap",
+  "version": 1,
+  "title": "pyMindMap Feature Tour",
+  "root": {
+    "id": "0ce59313-13c4-448f-b8fe-6a493b476e89",
+    "title": "pyMindMap",
+    "notes": "",
+    "collapsed": false,
+    "x": null,
+    "y": null,
+    "style": {
+      "fill_color": "#FFFFFF",
+      "text_color": "#000000",
+      "font_family": null,
+      "font_size": null,
+      "bold": false,
+      "italic": false
+    },
+    "children": [
+      {
+        "id": "a337a267-9cc9-4967-93f0-2ccbc9aeee8a",
+        "title": "Desktop GUI",
+        "notes": "",
+        "collapsed": false,
+        "x": null,
+        "y": null,
+        "style": {
+          "fill_color": "#FFFFFF",
+          "text_color": "#000000",
+          "font_family": null,
+          "font_size": null,
+          "bold": false,
+          "italic": false
+        },
+        "children": [
+          {
+            "id": "d6a19f6f-b251-4e12-b093-6c2b6da3bfab",
+            "title": "Drag to reparent",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          },
+          {
+            "id": "d9d3c8fe-0dad-4a67-b369-cd33cf412651",
+            "title": "Inline rename (F2 / double-click)",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          },
+          {
+            "id": "f4420e39-9dc7-4c50-a34f-885b61eb0bd9",
+            "title": "Undo / redo",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "1c2d4f02-733b-42ba-ac13-fc13dc3d11d6",
+        "title": "CLI",
+        "notes": "",
+        "collapsed": false,
+        "x": null,
+        "y": null,
+        "style": {
+          "fill_color": "#FFFFFF",
+          "text_color": "#000000",
+          "font_family": null,
+          "font_size": null,
+          "bold": false,
+          "italic": false
+        },
+        "children": [
+          {
+            "id": "3e691c13-c524-4130-beaf-d7a9f88d487e",
+            "title": "new / show / validate",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          },
+          {
+            "id": "756e5a29-e729-467a-85b1-cfc13abb41b4",
+            "title": "convert between formats",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "acc031c8-cbc3-422a-8833-39fdd139e229",
+        "title": "Interop",
+        "notes": "",
+        "collapsed": false,
+        "x": null,
+        "y": null,
+        "style": {
+          "fill_color": "#FFFFFF",
+          "text_color": "#000000",
+          "font_family": null,
+          "font_size": null,
+          "bold": false,
+          "italic": false
+        },
+        "children": [
+          {
+            "id": "c8f769f8-69dd-4377-a78c-f604829cd469",
+            "title": "Native JSON",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          },
+          {
+            "id": "0d684338-750b-4230-b02d-a990036aa8b2",
+            "title": "FreeMind .mm import/export",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          },
+          {
+            "id": "e58347e0-8e7d-4ff5-b0a4-17cbfb10eb4b",
+            "title": "Markdown outline export",
+            "notes": "",
+            "collapsed": false,
+            "x": null,
+            "y": null,
+            "style": {
+              "fill_color": "#FFFFFF",
+              "text_color": "#000000",
+              "font_family": null,
+              "font_size": null,
+              "bold": false,
+              "italic": false
+            },
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}
