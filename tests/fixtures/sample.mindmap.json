@@ -1,0 +1,40 @@
+{
+  "format": "pymindmap",
+  "version": 1,
+  "title": "Sample Map",
+  "root": {
+    "id": "root-1",
+    "title": "Central Topic",
+    "notes": "",
+    "collapsed": false,
+    "x": null,
+    "y": null,
+    "style": {
+      "fill_color": "#FFFFFF",
+      "text_color": "#000000",
+      "font_family": null,
+      "font_size": null,
+      "bold": false,
+      "italic": false
+    },
+    "children": [
+      {
+        "id": "child-1",
+        "title": "Idea 1",
+        "notes": "some notes",
+        "collapsed": false,
+        "x": 220.0,
+        "y": -40.0,
+        "style": {
+          "fill_color": "#FFDD88",
+          "text_color": "#000000",
+          "font_family": null,
+          "font_size": null,
+          "bold": false,
+          "italic": false
+        },
+        "children": []
+      }
+    ]
+  }
+}
